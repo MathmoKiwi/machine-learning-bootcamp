@@ -32,6 +32,10 @@ Predict productivity indices for different sectors based on historical data and 
 
 You can find the detailed notebook for this midterm project [here](https://github.com/MathmoKiwi/machine-learning-bootcamp/blob/main/midterm-project/MidtermProject.ipynb).
 
+## Deployment Instructions
+
+You can find the instructions for reproducing deployment / dependencies / instrutions / etc for this midterm project [here](https://github.com/MathmoKiwi/machine-learning-bootcamp/blob/main/midterm-project/deployment.md).
+
 
 ## ML Zoomcamp Project Evaluation Criteria
 
