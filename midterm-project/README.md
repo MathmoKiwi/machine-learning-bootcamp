@@ -28,3 +28,6 @@ Predict productivity indices for different sectors based on historical data and 
 2. Which sectors are most likely to see future growth or stagnation?
 3. What are the key factors driving productivity in each sector?
 
+## Midterm Project Notebook
+
+You can find the detailed notebook for this midterm project [here](https://github.com/MathmoKiwi/machine-learning-bootcamp/blob/main/midterm-project/MidtermProject.ipynb).
